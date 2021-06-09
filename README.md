@@ -13,7 +13,8 @@ Bangkit's Capstone Project : Paddy Leaf Disease Detection
 
 ## Steps to Configure Architecture and Deployment Model with Flask 
 * A. Create 2 buckets in cloud storage for GET and POSH processes resulting from the detection process
-* B.  *  Create a virtual machine on the GCP compute engine with Deep Learning for Linux Tensorflow 2.2 image
+* B. 
+   *  1. Create a virtual machine on the GCP compute engine with Deep Learning for Linux Tensorflow 2.2 image
    *  2. Install libraries in virtual machines such as
       a. tensorflow==2.2.0
       b. h5py==2.10.0
